@@ -1,0 +1,7 @@
+<library path="lib/librasim_local_planner_lib">
+  <class name="rasim_local_planner/DummyLocalPlanner" type="rasim_local_planner::DummyLocalPlanner" base_class_type="nav_core::BaseLocalPlanner">
+  <description>
+    This is a rasim local planner plugin for the navigation stack.
+  </description>
+  </class>
+</library>
