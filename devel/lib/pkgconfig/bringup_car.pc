@@ -1,0 +1,8 @@
+prefix=/home/rasim/rasim_ws/devel
+
+Name: bringup_car
+Description: Description of bringup_car
+Version: 1.0.0
+Cflags: -I/home/rasim/rasim_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

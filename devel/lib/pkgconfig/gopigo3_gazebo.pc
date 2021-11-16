@@ -1,0 +1,8 @@
+prefix=/home/rasim/rasim_ws/devel
+
+Name: gopigo3_gazebo
+Description: Description of gopigo3_gazebo
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

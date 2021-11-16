@@ -1,0 +1,8 @@
+prefix=/home/rasim/rasim_ws/devel
+
+Name: gopigo3_slam
+Description: Description of gopigo3_slam
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

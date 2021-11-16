@@ -1,0 +1,8 @@
+prefix=/home/rasim/rasim_ws/devel
+
+Name: gopigo3_description
+Description: Description of gopigo3_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: urdf xacro
